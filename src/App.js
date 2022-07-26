@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          learn react
-          {/* Hi there! New Changes, even newer, newer still */}
+          Jeff... The dark side of the force is a pathway to many abilities, some considered to be unnatural...
         </a>
       </header>
     </div>
